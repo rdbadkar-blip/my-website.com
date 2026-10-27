@@ -1,0 +1,6 @@
+{
+  "name": "Whub Site Maker",
+  "description": "Create, customize, preview, test accessibility and carbon footprint, and download clean, responsive websites in minutes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
